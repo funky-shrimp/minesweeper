@@ -1,4 +1,4 @@
-# Minesweeper - test
+# Minesweeper - test 2
 
 A [minesweeper][minesweeper] web application. The backend has been developed
 with the [Phoenix web framework][phoenix] written in [Elixir][elixir]. The
